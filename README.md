@@ -1,6 +1,8 @@
-# payourseTest
+# piggytech Test
 
-<video src="./src/assets/RPReplay_Final1734007915.mov" width="30%" height="30%"> <img src="./src/assets/Simulator Screenshot - iPhone 15 Pro - 2024-12-12 at 13.58.49.png" width="30%" height="30%">
+<img src="./src/assets/Simulator Screenshot - iPhone 15 Pro - 2024-12-12 at 13.58.49.png" width="30%" height="30%">
+<video src="./src/assets/RPReplay_Final1734007915.mov" width="30%" height="30%">
+
 ## Choice of stack
 
     Expo and Redux tookit
