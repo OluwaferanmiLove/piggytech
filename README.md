@@ -1,12 +1,10 @@
 # payourseTest
 
-<img src="./src/assets/RPReplay_Final1734007915.mov" width="30%" height="30%"> <img src="./src/assets/Simulator Screenshot - iPhone 15 Pro - 2024-12-12 at 13.58.49.png" width="30%" height="30%">
-## Possible issue
+<video src="./src/assets/RPReplay_Final1734007915.mov" width="30%" height="30%"> <img src="./src/assets/Simulator Screenshot - iPhone 15 Pro - 2024-12-12 at 13.58.49.png" width="30%" height="30%">
+## Choice of stack
 
-  Ruby version mismatch error
-
-    Download Ruby version manage to manage diferent version of Ruby
-    rbenv - most recomended
+    Expo and Redux tookit
+    expo because of ability to preview quickly
 
 ## Clone git repository and install packages
 
