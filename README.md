@@ -1,6 +1,6 @@
 # piggytech Test
 
-<img src="./src/assets/Simulator Screenshot - iPhone 15 Pro - 2024-12-12 at 13.58.49.png" width="30%" height="30%"><img src="./src/assets/Simulator Screenshot - iPhone 15 Pro - 2024-12-12 at 13.58.58.png" width="30%" height="30%"><img src="./src/assets/Simulator Screenshot - iPhone 15 Pro - 2024-12-12 at 13.59.04.png" width="30%" height="30%">
+<img src="./src/assets/Simulator Screenshot - iPhone 15 Pro - 2024-12-12 at 13.58.49.png" width="30%" height="30%"><img src="./src/assets/Simulator Screenshot - iPhone 15 Pro - 2024-12-12 at 14.09.29.png" width="30%" height="30%"><img src="./src/assets/Simulator Screenshot - iPhone 15 Pro - 2024-12-12 at 13.58.58.png" width="30%" height="30%"><img src="./src/assets/Simulator Screenshot - iPhone 15 Pro - 2024-12-12 at 13.59.04.png" width="30%" height="30%">
 
 ## Choice of stack
 
